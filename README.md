@@ -15,9 +15,9 @@ loops ----> [for loop , continue/break , range(index)]
 
 Third Session :
 
-continue loops ----> [while loop , functions ]
+continue loops ----> [while loop , functions]
 
-Fourth Session : 
+Fourth Session : [Data structures in python]
 
 ---> lists 
 

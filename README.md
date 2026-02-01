@@ -13,9 +13,13 @@ Second Session :
 
 loops ----> [for loop , continue/break , range(index)]
 
+Exercises
+
 Third Session :
 
 continue loops ----> [while loop , functions]
+
+Exercises
 
 Fourth Session : [Data structures in python]
 
@@ -31,10 +35,18 @@ Fourth Session : [Data structures in python]
 
 ---> (Add , remove , sort ) list items 
 
+Exercises
+
+** solve 10 problems **
+
 Fifth Session :
 
 [loop lists , copy lists , python sets (Access , Add , Remove )]
 
-sets items (unchangeable)
+sets items (unordered)
+
+tuple (unchangeable)
+
+Exercises
 
 
